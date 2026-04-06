@@ -1,3 +1,7 @@
+<div align="center">
+<img src="media/banner.png" alt="schema-architect" width="100%">
+</div>
+
 # schema-architect
 
 Design and generate production-ready database schemas for SQLite, Redis, and Neo4j. Includes type-safe Rust and Go bindings, versioned migrations, a validation script, and enterprise patterns for both early-stage and scaled systems.
